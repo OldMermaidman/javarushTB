@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b2effd6-11c7-455c-871e-231eff7e1cfb" name="Default Changelist" comment="">
+
       <change beforePath="$PROJECT_DIR$/src/main/java/com/github/oldmermaidman/javarushTtelegrambot/JavarushTelegramBotApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/oldmermaidman/javarushTtelegrambot/JavarushTelegramBotApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RELEASE_NOTES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,6 +17,13 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="javarush-telegrambot" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -28,6 +40,10 @@
   </component>
   <component name="ProjectId" id="1qwmIBkeD7YhajcMT7D0AHF4m3V" />
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -67,6 +83,8 @@
       <workItem from="1617998947618" duration="527000" />
       <workItem from="1618000121300" duration="500000" />
       <workItem from="1618000786141" duration="271000" />
+      <workItem from="1618251681164" duration="3808000" />
+      <workItem from="1618257569556" duration="848000" />
     </task>
     <task id="LOCAL-00001" summary="first commit, download all files">
       <created>1617999396878</created>
@@ -75,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617999396878</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="JRTB-2: added stub telegrambot to the project">
+      <created>1618256806244</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1618256806244</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +123,7 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="first commit, download all files" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit, download all files" />
+    <MESSAGE value="JRTB-2: added stub telegrambot to the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="JRTB-2: added stub telegrambot to the project" />
   </component>
 </project>

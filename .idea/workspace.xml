@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b2effd6-11c7-455c-871e-231eff7e1cfb" name="Default Changelist" comment="">
+
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/oldmermaidman/javarushTtelegrambot/JavarushTelegramBotApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/oldmermaidman/javarushTtelegrambot/JavarushTelegramBotApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RELEASE_NOTES.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
